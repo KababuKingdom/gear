@@ -1,0 +1,15 @@
+/home/solomon/Desktop/Projects/solomon-gear-academy/hello-world/target/debug/deps/region-a416a6e6c15cff8e.rmeta: /home/solomon/.cargo/registry/src/github.com-1ecc6299db9ec823/region-3.0.0/src/lib.rs /home/solomon/.cargo/registry/src/github.com-1ecc6299db9ec823/region-3.0.0/src/alloc.rs /home/solomon/.cargo/registry/src/github.com-1ecc6299db9ec823/region-3.0.0/src/error.rs /home/solomon/.cargo/registry/src/github.com-1ecc6299db9ec823/region-3.0.0/src/lock.rs /home/solomon/.cargo/registry/src/github.com-1ecc6299db9ec823/region-3.0.0/src/os/mod.rs /home/solomon/.cargo/registry/src/github.com-1ecc6299db9ec823/region-3.0.0/src/os/unix.rs /home/solomon/.cargo/registry/src/github.com-1ecc6299db9ec823/region-3.0.0/src/os/linux.rs /home/solomon/.cargo/registry/src/github.com-1ecc6299db9ec823/region-3.0.0/src/page.rs /home/solomon/.cargo/registry/src/github.com-1ecc6299db9ec823/region-3.0.0/src/protect.rs /home/solomon/.cargo/registry/src/github.com-1ecc6299db9ec823/region-3.0.0/src/query.rs /home/solomon/.cargo/registry/src/github.com-1ecc6299db9ec823/region-3.0.0/src/util.rs
+
+/home/solomon/Desktop/Projects/solomon-gear-academy/hello-world/target/debug/deps/region-a416a6e6c15cff8e.d: /home/solomon/.cargo/registry/src/github.com-1ecc6299db9ec823/region-3.0.0/src/lib.rs /home/solomon/.cargo/registry/src/github.com-1ecc6299db9ec823/region-3.0.0/src/alloc.rs /home/solomon/.cargo/registry/src/github.com-1ecc6299db9ec823/region-3.0.0/src/error.rs /home/solomon/.cargo/registry/src/github.com-1ecc6299db9ec823/region-3.0.0/src/lock.rs /home/solomon/.cargo/registry/src/github.com-1ecc6299db9ec823/region-3.0.0/src/os/mod.rs /home/solomon/.cargo/registry/src/github.com-1ecc6299db9ec823/region-3.0.0/src/os/unix.rs /home/solomon/.cargo/registry/src/github.com-1ecc6299db9ec823/region-3.0.0/src/os/linux.rs /home/solomon/.cargo/registry/src/github.com-1ecc6299db9ec823/region-3.0.0/src/page.rs /home/solomon/.cargo/registry/src/github.com-1ecc6299db9ec823/region-3.0.0/src/protect.rs /home/solomon/.cargo/registry/src/github.com-1ecc6299db9ec823/region-3.0.0/src/query.rs /home/solomon/.cargo/registry/src/github.com-1ecc6299db9ec823/region-3.0.0/src/util.rs
+
+/home/solomon/.cargo/registry/src/github.com-1ecc6299db9ec823/region-3.0.0/src/lib.rs:
+/home/solomon/.cargo/registry/src/github.com-1ecc6299db9ec823/region-3.0.0/src/alloc.rs:
+/home/solomon/.cargo/registry/src/github.com-1ecc6299db9ec823/region-3.0.0/src/error.rs:
+/home/solomon/.cargo/registry/src/github.com-1ecc6299db9ec823/region-3.0.0/src/lock.rs:
+/home/solomon/.cargo/registry/src/github.com-1ecc6299db9ec823/region-3.0.0/src/os/mod.rs:
+/home/solomon/.cargo/registry/src/github.com-1ecc6299db9ec823/region-3.0.0/src/os/unix.rs:
+/home/solomon/.cargo/registry/src/github.com-1ecc6299db9ec823/region-3.0.0/src/os/linux.rs:
+/home/solomon/.cargo/registry/src/github.com-1ecc6299db9ec823/region-3.0.0/src/page.rs:
+/home/solomon/.cargo/registry/src/github.com-1ecc6299db9ec823/region-3.0.0/src/protect.rs:
+/home/solomon/.cargo/registry/src/github.com-1ecc6299db9ec823/region-3.0.0/src/query.rs:
+/home/solomon/.cargo/registry/src/github.com-1ecc6299db9ec823/region-3.0.0/src/util.rs:

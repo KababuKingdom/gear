@@ -1,7 +1,4 @@
 #[test]
-
-
-#[test]
 fn hello_test() {
     let sys = System::new();
     sys.init_logger();

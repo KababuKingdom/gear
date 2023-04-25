@@ -1,0 +1,11 @@
+/home/solomon/Desktop/Projects/solomon-gear-academy/hello-world/target/debug/deps/wasmi_core-e7a02fe6342ac955.rmeta: /home/solomon/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmi_core-0.2.1/src/lib.rs /home/solomon/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmi_core-0.2.1/src/host_error.rs /home/solomon/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmi_core-0.2.1/src/nan_preserving_float.rs /home/solomon/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmi_core-0.2.1/src/trap.rs /home/solomon/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmi_core-0.2.1/src/untyped.rs /home/solomon/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmi_core-0.2.1/src/value.rs /home/solomon/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmi_core-0.2.1/src/vmem.rs
+
+/home/solomon/Desktop/Projects/solomon-gear-academy/hello-world/target/debug/deps/wasmi_core-e7a02fe6342ac955.d: /home/solomon/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmi_core-0.2.1/src/lib.rs /home/solomon/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmi_core-0.2.1/src/host_error.rs /home/solomon/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmi_core-0.2.1/src/nan_preserving_float.rs /home/solomon/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmi_core-0.2.1/src/trap.rs /home/solomon/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmi_core-0.2.1/src/untyped.rs /home/solomon/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmi_core-0.2.1/src/value.rs /home/solomon/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmi_core-0.2.1/src/vmem.rs
+
+/home/solomon/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmi_core-0.2.1/src/lib.rs:
+/home/solomon/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmi_core-0.2.1/src/host_error.rs:
+/home/solomon/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmi_core-0.2.1/src/nan_preserving_float.rs:
+/home/solomon/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmi_core-0.2.1/src/trap.rs:
+/home/solomon/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmi_core-0.2.1/src/untyped.rs:
+/home/solomon/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmi_core-0.2.1/src/value.rs:
+/home/solomon/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmi_core-0.2.1/src/vmem.rs:

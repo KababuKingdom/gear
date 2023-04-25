@@ -1,0 +1,11 @@
+/home/solomon/Desktop/Projects/solomon-gear-academy/hello-world/target/debug/deps/arrayvec-b67c03fea09ca60f.rmeta: /home/solomon/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.4.12/src/lib.rs /home/solomon/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.4.12/src/maybe_uninit_stable.rs /home/solomon/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.4.12/src/array.rs /home/solomon/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.4.12/src/array_string.rs /home/solomon/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.4.12/src/char.rs /home/solomon/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.4.12/src/range.rs /home/solomon/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.4.12/src/errors.rs
+
+/home/solomon/Desktop/Projects/solomon-gear-academy/hello-world/target/debug/deps/arrayvec-b67c03fea09ca60f.d: /home/solomon/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.4.12/src/lib.rs /home/solomon/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.4.12/src/maybe_uninit_stable.rs /home/solomon/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.4.12/src/array.rs /home/solomon/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.4.12/src/array_string.rs /home/solomon/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.4.12/src/char.rs /home/solomon/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.4.12/src/range.rs /home/solomon/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.4.12/src/errors.rs
+
+/home/solomon/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.4.12/src/lib.rs:
+/home/solomon/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.4.12/src/maybe_uninit_stable.rs:
+/home/solomon/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.4.12/src/array.rs:
+/home/solomon/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.4.12/src/array_string.rs:
+/home/solomon/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.4.12/src/char.rs:
+/home/solomon/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.4.12/src/range.rs:
+/home/solomon/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.4.12/src/errors.rs:
