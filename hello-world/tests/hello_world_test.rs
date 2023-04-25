@@ -4,3 +4,4 @@ fn hello_test() {
     sys.init_logger();
     let program = Program::current(&sys);
     program.send_bytes(2, String::from("INIT MESSAGE"));
+}
