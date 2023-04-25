@@ -11,3 +11,6 @@ gear-wasm-builder = { git = "https://github.com/gear-tech/gear.git", branch = "t
 
 [dev-dependencies]
 gtest = { git = "https://github.com/gear-tech/gear.git", branch = "testnet" }
+
+parity-scale-codec = { version = "3", default-features = false }
+scale-info = { version = "2", default-features = false }

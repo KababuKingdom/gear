@@ -1,0 +1,27 @@
+[dependencies.orig-project]
+default-features = false
+package = "hello-world"
+path = "/home/solomon/Desktop/Projects/solomon-gear-academy/hello-world"
+
+[features]
+
+[lib]
+crate-type = ["cdylib"]
+name = "hello_world"
+
+[package]
+edition = "2021"
+name = "hello-world-wasm"
+version = "0.1.0"
+
+[profile.dev]
+opt-level = "s"
+
+[profile.production]
+inherits = "release"
+
+[profile.release]
+lto = true
+opt-level = "s"
+
+[workspace]
