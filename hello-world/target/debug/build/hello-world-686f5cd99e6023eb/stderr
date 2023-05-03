@@ -1,6 +1,0 @@
-[0m[0m[1m[36m    Blocking[0m waiting for file lock on package cache
-[0m[0m[1m[36m    Blocking[0m waiting for file lock on package cache
-[0m[0m[1m[36m    Blocking[0m waiting for file lock on package cache
-[0m[0m[1m[32m   Compiling[0m hello-world v0.1.0 (/home/solomon/Desktop/Projects/solomon-gear-academy/hello-world)
-[0m[0m[1m[32m   Compiling[0m hello-world-wasm v0.1.0 (/home/solomon/Desktop/Projects/solomon-gear-academy/hello-world/target/debug/build/hello-world-686f5cd99e6023eb/out)
-[0m[0m[1m[32m    Finished[0m dev [optimized + debuginfo] target(s) in 21.96s

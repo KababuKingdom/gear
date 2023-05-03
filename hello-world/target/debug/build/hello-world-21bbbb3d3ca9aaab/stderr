@@ -1,0 +1,90 @@
+[0m[0m[1m[32m   Compiling[0m proc-macro2 v1.0.56
+[0m[0m[1m[32m   Compiling[0m unicode-ident v1.0.8
+[0m[0m[1m[32m   Compiling[0m quote v1.0.26
+[0m[0m[1m[32m   Compiling[0m serde_derive v1.0.160
+[0m[0m[1m[32m   Compiling[0m serde v1.0.160
+[0m[0m[1m[32m   Compiling[0m syn v1.0.109
+[0m[0m[1m[32m   Compiling[0m autocfg v1.1.0
+[0m[0m[1m[32m   Compiling[0m hashbrown v0.12.3
+[0m[0m[1m[32m   Compiling[0m winnow v0.4.6
+[0m[0m[1m[32m   Compiling[0m once_cell v1.17.1
+[0m[0m[1m[32m   Compiling[0m convert_case v0.4.0
+[0m[0m[1m[32m   Compiling[0m libc v0.2.142
+[0m[0m[1m[32m   Compiling[0m arrayvec v0.7.2
+[0m[0m[1m[32m   Compiling[0m arrayvec v0.4.12
+[0m[0m[1m[32m   Compiling[0m byte-slice-cast v1.2.2
+[0m[0m[1m[32m   Compiling[0m cfg-if v1.0.0
+[0m[0m[1m[32m   Compiling[0m static_assertions v1.1.0
+[0m[0m[1m[32m   Compiling[0m thiserror v1.0.40
+[0m[0m[1m[32m   Compiling[0m futures-core v0.3.28
+[0m[0m[1m[32m   Compiling[0m log v0.4.17
+[0m[0m[1m[32m   Compiling[0m camino v1.1.4
+[0m[0m[1m[32m   Compiling[0m nodrop v0.1.14
+[0m[0m[1m[32m   Compiling[0m serde_json v1.0.96
+[0m[0m[1m[32m   Compiling[0m semver v1.0.17
+[0m[0m[1m[32m   Compiling[0m parity-wasm v0.45.0
+[0m[0m[1m[32m   Compiling[0m itoa v1.0.6
+[0m[0m[1m[32m   Compiling[0m futures-task v0.3.28
+[0m[0m[1m[32m   Compiling[0m constant_time_eq v0.1.5
+[0m[0m[1m[32m   Compiling[0m version_check v0.9.4
+[0m[0m[1m[32m   Compiling[0m indexmap v1.9.3
+[0m[0m[1m[32m   Compiling[0m crunchy v0.2.2
+[0m[0m[1m[32m   Compiling[0m ryu v1.0.13
+[0m[0m[1m[32m   Compiling[0m anyhow v1.0.71
+[0m[0m[1m[32m   Compiling[0m blake2-rfc v0.2.18
+[0m[0m[1m[32m   Compiling[0m byteorder v1.4.3
+[0m[0m[1m[32m   Compiling[0m futures-sink v0.3.28
+[0m[0m[1m[32m   Compiling[0m dlmalloc v0.1.4 (https://github.com/gear-tech/dlmalloc-rust.git?rev=9135baa#9135baa7)
+[0m[0m[1m[32m   Compiling[0m hex v0.4.3
+[0m[0m[1m[32m   Compiling[0m either v1.8.1
+[0m[0m[1m[32m   Compiling[0m lazy_static v1.4.0
+[0m[0m[1m[32m   Compiling[0m futures-channel v0.3.28
+[0m[0m[1m[32m   Compiling[0m futures-util v0.3.28
+[0m[0m[1m[32m   Compiling[0m gear-wasm-builder v0.1.2 (https://github.com/gear-tech/gear.git?branch=academy-v0.1.0#d3199a4c)
+[0m[0m[1m[32m   Compiling[0m ahash v0.8.3
+[0m[0m[1m[32m   Compiling[0m parity-wasm v0.42.2
+[0m[0m[1m[32m   Compiling[0m syn v2.0.15
+[0m[0m[1m[32m   Compiling[0m atty v0.2.14
+[0m[0m[1m[32m   Compiling[0m colored v2.0.0
+[0m[0m[1m[32m   Compiling[0m which v4.4.0
+[0m[0m[1m[32m   Compiling[0m pin-project-lite v0.2.9
+[0m[0m[1m[32m   Compiling[0m pathdiff v0.2.1
+[0m[0m[1m[32m   Compiling[0m str-buf v2.0.5
+[0m[0m[1m[32m   Compiling[0m pin-utils v0.1.0
+[0m[0m[1m[32m   Compiling[0m fixed-hash v0.8.0
+[0m[0m[1m[32m   Compiling[0m wasm-instrument v0.2.1 (https://github.com/gear-tech/wasm-instrument.git?branch=gear-stable#756a8b92)
+[0m[0m[1m[32m   Compiling[0m futures-io v0.3.28
+[0m[0m[1m[32m   Compiling[0m gsys v0.1.0 (https://github.com/gear-tech/gear.git?branch=academy-v0.1.0#d3199a4c)
+[0m[0m[1m[32m   Compiling[0m uint v0.9.5
+[0m[0m[1m[32m   Compiling[0m bs58 v0.4.0
+[0m[0m[1m[32m   Compiling[0m hashbrown v0.13.2
+[0m[0m[1m[32m   Compiling[0m galloc v0.1.0 (https://github.com/gear-tech/gear.git?branch=academy-v0.1.0#d3199a4c)
+[0m[0m[1m[32m   Compiling[0m pwasm-utils v0.19.0
+[0m[0m[1m[32m   Compiling[0m futures v0.3.28
+[0m[0m[1m[32m   Compiling[0m thiserror-impl v1.0.40
+[0m[0m[1m[32m   Compiling[0m gstd-codegen v0.1.0 (https://github.com/gear-tech/gear.git?branch=academy-v0.1.0#d3199a4c)
+[0m[0m[1m[32m   Compiling[0m impl-trait-for-tuples v0.2.2
+[0m[0m[1m[32m   Compiling[0m derive_more v0.99.17
+[0m[0m[1m[32m   Compiling[0m enum-iterator-derive v1.2.0
+[0m[0m[1m[32m   Compiling[0m enum-iterator v1.4.0
+[0m[0m[1m[32m   Compiling[0m gear-wasm-instrument v0.1.0 (https://github.com/gear-tech/gear.git?branch=academy-v0.1.0#d3199a4c)
+[0m[0m[1m[32m   Compiling[0m toml_datetime v0.6.1
+[0m[0m[1m[32m   Compiling[0m serde_spanned v0.6.1
+[0m[0m[1m[32m   Compiling[0m cargo-platform v0.1.2
+[0m[0m[1m[32m   Compiling[0m toml_edit v0.19.8
+[0m[0m[1m[32m   Compiling[0m cargo_metadata v0.15.4
+[0m[0m[1m[32m   Compiling[0m proc-macro-crate v1.3.1
+[0m[0m[1m[32m   Compiling[0m toml v0.7.3
+[0m[0m[1m[32m   Compiling[0m parity-scale-codec-derive v3.1.4
+[0m[0m[1m[32m   Compiling[0m scale-info-derive v2.6.0
+[0m[0m[1m[32m   Compiling[0m parity-scale-codec v3.4.0
+[0m[0m[1m[32m   Compiling[0m scale-info v2.6.0
+[0m[0m[1m[32m   Compiling[0m impl-codec v0.6.0
+[0m[0m[1m[32m   Compiling[0m gmeta v0.1.0 (https://github.com/gear-tech/gear.git?branch=academy-v0.1.0#d3199a4c)
+[0m[0m[1m[32m   Compiling[0m gear-core-errors v0.1.0 (https://github.com/gear-tech/gear.git?branch=academy-v0.1.0#d3199a4c)
+[0m[0m[1m[32m   Compiling[0m primitive-types v0.12.1
+[0m[0m[1m[32m   Compiling[0m gcore v0.1.0 (https://github.com/gear-tech/gear.git?branch=academy-v0.1.0#d3199a4c)
+[0m[0m[1m[32m   Compiling[0m hello-world v0.1.0 (/workspace/solomon-gear-academy/hello-world)
+[0m[0m[1m[32m   Compiling[0m gstd v0.1.0 (https://github.com/gear-tech/gear.git?branch=academy-v0.1.0#d3199a4c)
+[0m[0m[1m[32m   Compiling[0m hello-world-wasm v0.1.0 (/workspace/solomon-gear-academy/hello-world/target/debug/build/hello-world-21bbbb3d3ca9aaab/out)
+[0m[0m[1m[32m    Finished[0m dev [optimized + debuginfo] target(s) in 35.70s

@@ -1,0 +1,11 @@
+/workspace/solomon-gear-academy/hello-world/target/debug/deps/cargo_metadata-8ebc323ed40955eb.rmeta: /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.15.4/src/lib.rs /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.15.4/src/dependency.rs /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.15.4/src/diagnostic.rs /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.15.4/src/errors.rs /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.15.4/src/messages.rs
+
+/workspace/solomon-gear-academy/hello-world/target/debug/deps/libcargo_metadata-8ebc323ed40955eb.rlib: /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.15.4/src/lib.rs /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.15.4/src/dependency.rs /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.15.4/src/diagnostic.rs /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.15.4/src/errors.rs /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.15.4/src/messages.rs
+
+/workspace/solomon-gear-academy/hello-world/target/debug/deps/cargo_metadata-8ebc323ed40955eb.d: /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.15.4/src/lib.rs /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.15.4/src/dependency.rs /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.15.4/src/diagnostic.rs /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.15.4/src/errors.rs /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.15.4/src/messages.rs
+
+/workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.15.4/src/lib.rs:
+/workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.15.4/src/dependency.rs:
+/workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.15.4/src/diagnostic.rs:
+/workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.15.4/src/errors.rs:
+/workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.15.4/src/messages.rs:
