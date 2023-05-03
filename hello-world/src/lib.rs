@@ -1,7 +1,7 @@
 #![no_std]
 use gstd::{msg, prelude::*, debug};
 use sp_io::misc::print_utf8;
-use parity_scale_codec::{Decode, Encode};
+use parity_scale_codec::{Decode, Encode}!;
 type ActorId = u64;
 
 #[derive(Encode, Decode, TypeInfo)]
@@ -32,12 +32,11 @@ extern "C" fn handle() {
     match input_message {
         InputMessages::SendHelloTo(account) => {
             debug!("Message: SendHelloTo {:?}", account);
-            msg::send(account, greeting.clone(), 0)
-                .expect("Error in sending Hello message to account");
+            msg::send(account, greeting(), 0).expect("Error in sending Hello message to account");
         }
         InputMessages::SendHelloReply => {
             debug!("Message: SendHelloReply");
-            msg::reply(greeting.clone(), 0).expect("Error in sending reply");
+            msg::reply(greeting(), 0).expect("Error in sending reply");
         }
     }
 }
